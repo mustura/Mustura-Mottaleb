@@ -52,3 +52,20 @@ There are multiple examples of tools that used the afl, as they are presented in
 * [Mobile Device]( https://www.radview.com/performance-testing-with-real-mobile-devices/): about a performance testing
 * [Webiste]( https://www.radview.com/performance-testing-tools-lp/): about general load and analyse performance.
 
+## Part 2 
+Case study: WebLOAD Testing Tools.
+
+* **Q2.1. What is the purpose of the sw/lib, i.e. what does it aim to do for users/developers?** WebLOAD is easy to use for testing performance and verifies the scalabilities and integrity of the web and mobile application. WebLOAD provides the most powerful monitoring tools so that developer uses the WebLOAD for performance web application, they can easily use the WebLOAD transaction to the server and Developers can dynamically run the script, and even use different virtual machine. 
+
+* **Q2.2. What are the key technologies used to develop the lib?** 
+  
+  - Test session written in JavaScript.
+  - network technology like HTTP / HTTPS(SSL,TLS), SOAP, HTML5, WebDAV
+
+* **Q2.3. What kind of automated testing tools are used to test the sw/lib (including but possible more than YTT) and what are their key features?** There are many multiple automated testing tools for different purposes as you can see [here]( https://www.outsource2india.com/software/articles/top-10-automation-testing-tools.asp). They use various automated testing tools for performance testing, API testing, Web testing, Mobile testing and functional testing. Junit is important for the test-driven development and it is useful for the testing frameworks. Kataloan studio support integration. The result of kataloan studio build in report that is very easy to explore in PDF, HTML, Excel or CSV. Appium tools allows the tester to use real devices, emulators and simulators.  
+
+* **Q2.4. Which features of the automated testing tools are currently used by the test suite?**
+For testing there are many popular tools as I mentioned before, most of the other reference are Selenium which is the popular tools for testing web application. Selenium introduces a replay method to write accurate tests without knowing scripting language. 
+
+* **Q2.5. Which features of the automated testing tools are NOT used by the test suite?** There are some features that they use but sometimes codeless tools works worth.
+
