@@ -6,9 +6,9 @@ WebLOAD is load testing tool,performance testing tools web applications(https://
 **Target application domain:** Web Application system
 ## Main Features
 * **Cloud Performance Testing**: Cloud testing is the process of analysing web application performance in a cloud computing domain. Cloud testing is very important for the organization, they faced problem to related with cost and time so that they can support the various cloud to perform the all type testing. 
-* **Analytics **: WebLOAD provides the most powerful monitoring tools. WebLOAD fixed the integration with application performance management tools. When developer uses the WebLOAD for performance web application, they can easily use the WebLOAD transaction to the server.  
+* **Analytics**: WebLOAD provides the most powerful monitoring tools. WebLOAD fixed the integration with application performance management tools. When developer uses the WebLOAD for performance web application, they can easily use the WebLOAD transaction to the server.  
 * **Mobile Load Testing**: WebLOAD introduces many ways to load testing by using mobile devices. WebLOAD works with perfectomobile, for helping to calculate the real experience thus  developing to the machine on a real mobile system. 
-* **Server-side performance **: WebLoad integrates output data from server -side operating system, web server, application server, networks, database server and other data to help decide of the problem. Server-side data is seen as part of the WebLOAD performance analytics report in real time.
+* **Server-side performance**: WebLoad integrates output data from server -side operating system, web server, application server, networks, database server and other data to help decide of the problem. Server-side data is seen as part of the WebLOAD performance analytics report in real time.
 ## Pros
 * it’s a robust testing platform and flexible.
 * Gives developers access to running scripts.
