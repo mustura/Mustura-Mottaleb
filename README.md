@@ -46,7 +46,7 @@ Last two years before in a very stable version.
 **First release date:** December 2014
 ## Licensing /Cost
 ** Commercial / Free Edition available.
-Q1.2
+# Q1.2
 ## Usage examples
 There are multiple examples of tools that used the afl, as they are presented in the official afl site. Some instances are:
 * [Mobile Device]( https://www.radview.com/performance-testing-with-real-mobile-devices/): about a performance testing
